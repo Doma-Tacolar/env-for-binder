@@ -17,4 +17,3 @@ dependencies:
     - requests
     - lightgbm
     - catboost
-    - tensorflow
