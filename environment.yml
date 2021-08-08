@@ -11,7 +11,7 @@ dependencies:
     - thinc
     - torch
     - torchvision
-    - opencv-python
+    - opencv-python-headless
     - opencv-contrib-python
     - runway-python
     - gdown
