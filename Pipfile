@@ -8,10 +8,19 @@ spacy = "*"
 ipykernel = "*"
 scipy = "*"
 numpy = "*"
-scikit-learn = "*"
 matplotlib = "*"
 pandas = "*"
 thinc = "*"
+torch ="*"
+scikit-image = "*"
+scikit-learn = "*"
+torchvision = "*"
+opencv-python = "*"
+opencv-contrib-python = "*"
+runway-python = "*"
+gdown = "*"
+pillow = "*"
+
 
 [dev-packages]
 
